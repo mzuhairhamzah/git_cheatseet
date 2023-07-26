@@ -1,6 +1,6 @@
-# WEBSITE ZUHAIR
+# LEARN GIT 
 --------------
 
-**halo nama saya adalah Zuhair**
+**CHEAT SEET GIT**
 
-ini adalah perubahan di brach master
+Reference :: [E-book PDF](https://education.github.com/git-cheat-sheet-education.pdf) 
