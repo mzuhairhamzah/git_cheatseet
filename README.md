@@ -1,4 +1,4 @@
-# LEARN GIT BASIC
+# LEARN GIT
 -----------------
 
 **CHEAT SEET GIT**
